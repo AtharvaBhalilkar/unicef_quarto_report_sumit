@@ -1,0 +1,70 @@
+## Data Story: Global Trends in Adolescent Health
+
+### 1. Global Overview: Adolescent Health Indicator Map (2022)
+
+![Adolescent Health Indicator Map](../visuals//world_map_2022.png)
+
+The choropleth world map presents a comprehensive view of adolescent health scores by country in 2022. It illustrates substantial disparities across regions:
+
+- High scorers such as Chile, New Zealand, and Australia report adolescent health scores above 50, reflecting strong public health infrastructure, school health programs, and youth-centric social policies.
+- Low scorers include several Sub-Saharan African and South Asian countries, where limited healthcare access, economic instability, and sociocultural barriers may hinder adolescent well-being.
+- Color gradients offer quick regional contrasts — lighter shades indicate better scores, while darker shades flag critical areas for intervention.
+
+This map highlights the urgent need to address regional inequities in adolescent health, promoting evidence-based policies globally.
+
+---
+
+### 2. Line Chart: Health Score Trends Over Time (2000–2022)
+
+![Line Chart - Health Trends](../visuals/line_chart.png)
+
+This time-series line chart tracks adolescent health trends in select countries across two decades:
+
+- Chile has shown consistent improvement in its health indicators, suggesting effective long-term strategies.
+- India and Nigeria reveal fluctuations, possibly due to political, economic, or pandemic-related disruptions.
+- The United States displays sustained high scores, underlining continuous investment in youth development and healthcare access.
+
+These patterns reveal how health outcomes evolve with time, emphasizing the importance of sustained national efforts and policy continuity.
+
+---
+
+### 3. Bar Graph: Top 10 Countries by Health Score (2022)
+
+![Bar Graph - Top 10 Countries](../visuals/bar_graph_top10.png)
+
+This bar chart ranks the top 10 countries in 2022:
+
+- Leading nations include Niue, Cook Islands, and Chile, with scores above 60.
+- These are mostly small island states or high-income countries, where focused health delivery and smaller populations may contribute to better outcomes.
+- The narrow range among the top 10 reflects limited global outperformance, hinting at a potential ceiling effect or data uniformity.
+
+The bar graph serves as a benchmark and highlights successful models worth exploring and replicating in lower-scoring regions.
+
+---
+
+### 4. Scatter Plot: Education vs. Adolescent Health Score
+
+![Scatter Plot - Education vs. Health](../visuals/education_vs_health.png)
+
+This regression scatter plot explores how education levels correlate with adolescent health:
+
+- A clear positive linear trend suggests that countries with higher educational attainment tend to have better adolescent health outcomes.
+- The regression line and shaded confidence interval support the strength of this relationship.
+- Outliers imply the presence of other influential factors such as healthcare infrastructure, gender norms, and national income.
+
+This visualization underscores the critical link between education and health, promoting integrated development approaches for adolescents.
+
+---
+
+### Conclusion
+
+This multi-visual story reveals:
+
+- Persistent global inequalities in adolescent health outcomes.
+- The long-term benefits of consistent and well-funded policies.
+- The interdependence of sectors, especially education and health.
+- The emergence of role-model countries that demonstrate best practices.
+
+These insights guide stakeholders toward data-driven planning, international collaboration, and targeted investments in adolescent well-being.
+
+---
