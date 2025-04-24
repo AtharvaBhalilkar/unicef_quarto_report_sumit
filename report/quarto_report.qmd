@@ -18,13 +18,17 @@ This map highlights the urgent need to address regional inequities in adolescent
 
 ![Line Chart - Health Trends](../visuals/line_chart.png)
 
-This time-series line chart tracks adolescent health trends in select countries across two decades:
+This time-series line chart visualizes how adolescent health outcomes have evolved across four demographically and geographically diverse countries between 2000 and 2022:
 
-- Chile has shown consistent improvement in its health indicators, suggesting effective long-term strategies.
-- India and Nigeria reveal fluctuations, possibly due to political, economic, or pandemic-related disruptions.
-- The United States displays sustained high scores, underlining continuous investment in youth development and healthcare access.
+- **Qatar** consistently ranks near the top, maintaining scores close to 100. This suggests sustained investment in public health, education, and infrastructure, benefiting adolescent well-being across decades.
 
-These patterns reveal how health outcomes evolve with time, emphasizing the importance of sustained national efforts and policy continuity.
+- **New Zealand** shows high but slightly fluctuating scores. While still a strong performer, recent dips may indicate emerging challenges or policy shifts that warrant attention.
+
+- **Peru** displays a volatile trajectory. A strong improvement post-2008 indicates positive policy impact, but inconsistent performance in later years suggests potential setbacks, possibly linked to political instability or uneven resource allocation.
+
+- **Nigeria** trails the group, with health scores below 40 in recent years. This highlights systemic gaps in adolescent healthcare access and socioeconomic disparities that remain unresolved.
+
+Together, these patterns underscore the importance of sustained policy commitment, regional equity, and multi-sector collaboration in improving adolescent health outcomes worldwide.
 
 ---
 
@@ -42,17 +46,19 @@ The bar graph serves as a benchmark and highlights successful models worth explo
 
 ---
 
-### 4. Scatter Plot: Education vs. Adolescent Health Score
+### 4. Scatter Plot: Sanitation Access vs. Adolescent Health Score
 
-![Scatter Plot - Education vs. Health](../visuals/education_vs_health.png)
+![Sanitation Access vs Health](../visuals/education_vs_health.png)
 
-This regression scatter plot explores how education levels correlate with adolescent health:
+*Scatter Plot – Sanitation vs. Health*
 
-- A clear positive linear trend suggests that countries with higher educational attainment tend to have better adolescent health outcomes.
-- The regression line and shaded confidence interval support the strength of this relationship.
-- Outliers imply the presence of other influential factors such as healthcare infrastructure, gender norms, and national income.
+This regression scatter plot explores how **sanitation access** correlates with adolescent health outcomes:
 
-This visualization underscores the critical link between education and health, promoting integrated development approaches for adolescents.
+- A clear positive linear trend suggests that countries with higher access to sanitation facilities tend to report better adolescent health.
+- The regression line and shaded confidence band reinforce the strength of this association.
+- Outliers suggest additional influencing factors such as income levels, healthcare infrastructure, or cultural practices.
+
+This visualization highlights the importance of investing in basic public health infrastructure like clean water and sanitation to improve adolescent well-being.
 
 ---
 
