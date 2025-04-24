@@ -1,0 +1,598 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.26000023,Female,Units,%,Modelled,,,Total
+Afghanistan,AF,AFG,4,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.75,Male,Units,%,Modelled,,,Total
+Afghanistan,AF,AFG,4,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.97999954,Total,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.95999908,Female,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.98999977,Male,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.5,Total,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.43999863,Female,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.60000038,Male,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.950000760000002,Total,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,52.40999985,Female,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,57.33000183,Male,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,54.95999908,Total,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.76000023,Female,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.14999962,Male,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.5,Total,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.61999989,Female,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.57999992,Male,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.600000380000001,Total,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,44.40999985,Female,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,44.72000122,Male,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,44.56999969,Total,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.04999924,Female,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.13000107,Male,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.09000015,Total,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.37000084,Female,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.07999992,Male,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.94000053,Total,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.68000031,Female,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.11000061,Male,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.38999939,Total,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.17000008,Female,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.62999916,Male,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.48999977,Total,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.02000046,Female,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.549999239999998,Male,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.84000015,Total,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,51.54999924,Female,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,47.84000015,Male,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,49.70000076,Total,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.56000137,Female,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.40000153,Male,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.50999832,Total,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.470000267,Female,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,7.1199998859999996,Male,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.270000458,Total,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.25999832,Female,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.75,Male,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.02000046,Total,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.97999954,Female,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.94000053,Male,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.06999969,Total,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.44000053,Female,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.22999954,Male,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.35000038,Total,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,43.45999908,Female,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,44.20999908,Male,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,43.84000015,Total,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.47999954,Female,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.15999985,Male,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.82999992,Total,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.45000076,Female,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.63000107,Male,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.56999969,Total,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.07999992,Female,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.40999985,Male,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.12999916,Total,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.38999939,Female,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,47.06999969,Male,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.34999847,Total,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.40999985,Female,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.77999878,Male,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.700000760000002,Total,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.61999989,Female,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.71999931,Male,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.68999958,Total,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36,Female,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.77999878,Male,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.88999939,Total,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,39.15999985,Female,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,44.15999985,Male,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.74000168,Total,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.39999962,Female,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.65000153,Male,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.17000008,Total,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.159999847,Female,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,5.28000021,Male,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,6.699999809,Total,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,5.389999866,Female,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.40999985,Male,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,7.909999847,Total,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.87999916,Female,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.229999542,Male,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13,Total,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.510000229,Female,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.37000084,Male,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.57999992,Total,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.62000084,Female,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.01000023,Male,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.799999239999998,Total,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.48999977,Female,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.42000008,Male,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.97999954,Total,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.53999996,Female,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.86999989,Male,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.72000027,Total,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.239999771,Female,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.09000015,Male,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.69999981,Total,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,55.70000076,Female,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,59.95999908,Male,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,57.86999893,Total,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.06999969,Female,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.12000084,Male,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.79000092,Total,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.77000046,Female,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.57999992,Male,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.62000084,Total,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.81999969,Female,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.32999992,Male,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.53999996,Total,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.859999657,Female,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.36999989,Male,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.63000011,Total,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,60.47000122,Female,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,64.08000183,Male,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,62.27999878,Total,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.63999939,Female,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.16999817,Male,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.88999939,Total,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.06999969,Female,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.299999239999998,Male,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.76000023,Total,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.41999817,Female,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,39.70999908,Male,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.15000153,Total,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29,Female,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.75999832,Male,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.97999954,Total,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.77999973,Female,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.82999992,Male,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.86000061,Total,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.950000760000002,Female,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.93000031,Male,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.44000053,Total,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.38999939,Female,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.37000084,Male,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.95999908,Total,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.68000031,Female,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.59000015,Male,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.14000034,Total,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.77999973,Female,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.09000015,Male,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.04000092,Total,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.47999954,Female,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.850000381,Male,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.149999619999999,Total,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.25999832,Female,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.41999817,Male,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.83000183,Total,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.74000168,Female,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.77000046,Male,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.75,Total,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.87000084,Female,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.06000137,Male,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.52000046,Total,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,45.75999832,Female,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,39.22999954,Male,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.41999817,Total,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.68000031,Female,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.88999939,Male,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.27000046,Total,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.5,Female,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.97999954,Male,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.75,Total,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.72000027,Female,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.680000305,Male,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.68999958,Total,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.95999908,Female,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.76000023,Male,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.450000760000002,Total,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.98999977,Female,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.93000031,Male,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.94000053,Total,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,5.940000057,Female,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,5.320000172,Male,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,5.6300001140000004,Total,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.71999931,Female,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.68999863,Male,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.73999977,Total,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.28000069,Female,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.09000015,Male,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.73999977,Total,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.69000053,Female,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.73999977,Male,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.69000053,Total,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,44.11999893,Female,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,50.93999863,Male,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,47.61000061,Total,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.93999958,Female,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18,Male,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.97999954,Total,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.23999977,Female,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.94999981,Male,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.600000380000001,Total,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.22999954,Female,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.13999939,Male,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.32999992,Total,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.65999985,Female,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.95999908,Male,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.38999939,Total,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.549999239999998,Female,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.97000027,Male,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.25,Total,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.68000031,Female,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.11999893,Male,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.97000122,Total,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.44999981,Female,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.01000023,Male,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.15999985,Total,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.43000031,Female,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.88000107,Male,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.68000031,Total,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.97999954,Female,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.62000084,Male,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.78000069,Total,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.64000034,Female,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.48999977,Male,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.52999973,Total,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.23999977,Female,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.81000042,Male,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.52999973,Total,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.02000046,Female,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.10000038,Male,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28,Total,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.350000380000001,Female,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.86999893,Male,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.69000053,Total,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.28000069,Female,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.75999832,Male,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.56999969,Total,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.799999239999998,Female,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.72000122,Male,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.31999969,Total,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.69000053,Female,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.76000023,Male,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.26000023,Total,Units,%,Modelled,,,Total
+India,IN,IND,356,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.81000042,Female,Units,%,Modelled,,,Total
+India,IN,IND,356,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.65999985,Male,Units,%,Modelled,,,Total
+India,IN,IND,356,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.30000019,Total,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.86000061,Female,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.48999977,Male,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.63999939,Total,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.05999947,Female,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.61000061,Male,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.40999985,Total,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.75999832,Female,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.68000031,Male,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,39.18000031,Total,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.30999947,Female,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.98999977,Male,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.65999985,Total,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23,Female,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.29000092,Male,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.14999962,Total,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.55999947,Female,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.90999985,Male,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.30999947,Total,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.11000061,Female,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.32999992,Male,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.18999863,Total,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.52999973,Female,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.84000015,Male,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.25,Total,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.84000015,Female,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.16999817,Male,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.02999878,Total,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.93000031,Female,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.65999985,Male,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.37999916,Total,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.21000004,Female,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,6.849999905,Male,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.02999973,Total,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.54999924,Female,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,46.68000031,Male,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,43.63999939,Total,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.88999939,Female,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,50.63999939,Male,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,47.13000107,Total,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.729999542,Female,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.22999954,Male,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.51000023,Total,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.03999996,Female,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.5,Male,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.84000015,Total,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.95999908,Female,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.59000015,Male,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.82999992,Total,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.84000015,Female,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,45.54999924,Male,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.81999969,Total,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.62000084,Female,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.680000305,Male,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.17000008,Total,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.39999962,Female,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.63999939,Male,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.03000069,Total,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.61000061,Female,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.36000061,Male,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.97000122,Total,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.51000023,Female,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.51000023,Male,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.54000092,Total,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.90999985,Female,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.05999947,Male,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.53000069,Total,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,4.360000134,Female,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.09000015,Male,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,7.25,Total,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.350000380000001,Female,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,7.1199998859999996,Male,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.739999771,Total,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.80999947,Female,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.24000168,Male,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.59999847,Total,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.88999939,Female,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.86000061,Male,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.68000031,Total,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.61999989,Female,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.38999939,Male,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.01000023,Total,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.299999239999998,Female,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.92000008,Male,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.18000031,Total,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.02000046,Female,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.81000137,Male,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.99000168,Total,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.5,Female,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.59000015,Male,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.5,Total,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.32999992,Female,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.36999893,Male,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.87000084,Total,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.93000031,Female,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,39.83000183,Male,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.88999939,Total,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,44.68999863,Female,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41,Male,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.81000137,Total,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.35000038,Female,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.44000053,Male,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.450000760000002,Total,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.85000038,Female,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.11999893,Male,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.72999954,Total,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.86000061,Female,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.95999908,Male,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.88999939,Total,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.100000380000001,Female,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.510000229,Male,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.81000042,Total,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.92000008,Female,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.03000069,Male,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.61000061,Total,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.890000343,Female,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.05999947,Male,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.93999958,Total,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,49.11999893,Female,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,64.77999878,Male,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,57.25999832,Total,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.88000011,Female,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,6.690000057,Male,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.75,Total,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.56999969,Female,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.67000008,Male,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.64999962,Total,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.5,Female,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.38999939,Male,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,39.90999985,Total,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.16999817,Female,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.88999939,Male,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.04000092,Total,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,7.079999924,Female,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.55000019,Male,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.36999989,Total,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.840000153,Female,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.260000229,Male,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.550000191,Total,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,58.38000107,Female,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,67.68000031,Male,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,62.81999969,Total,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.75,Female,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.65999985,Male,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.31999969,Total,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.88999939,Female,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.37999916,Male,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.17000008,Total,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.15999985,Female,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.86000061,Male,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.56999969,Total,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.700000760000002,Female,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.01000023,Male,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.87999916,Total,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,45.31999969,Female,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,49.81999969,Male,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,47.66999817,Total,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.56999969,Female,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.72000122,Male,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.58000183,Total,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.45999908,Female,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.11999893,Male,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.36999893,Total,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.02000046,Female,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.95000076,Male,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.49000168,Total,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,39.95999908,Female,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.27000046,Male,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.13000107,Total,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.85999966,Female,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.98999977,Male,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.98999977,Total,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.21999931,Female,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.72999954,Male,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.02000046,Total,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.95999908,Female,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.55999947,Male,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.27000046,Total,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.84999847,Female,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.52999878,Male,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.20000076,Total,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.34000015,Female,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,52.75999832,Male,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,46.56999969,Total,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.44000053,Female,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.83000183,Male,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.91999817,Total,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.64000034,Female,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.23999977,Male,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.96999931,Total,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.43000031,Female,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.46999931,Male,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.01000023,Total,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.34000015,Female,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.88999939,Male,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.700000760000002,Total,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.81000042,Female,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,5.5,Male,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.630000114,Total,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.95999908,Female,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,44.00999832,Male,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.47000122,Total,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,39.52000046,Female,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.47000122,Male,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.95000076,Total,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.18000031,Female,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.13999939,Male,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.61999893,Total,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,47.91999817,Female,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,51.31999969,Male,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,49.68000031,Total,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.31999969,Female,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.32999992,Male,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.81999969,Total,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.83000183,Female,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,45.79000092,Male,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.40000153,Total,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.399999619,Female,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,7.590000153,Male,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.479999542,Total,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.5,Female,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.63000107,Male,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.700000760000002,Total,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.88999939,Female,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.18000031,Male,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34,Total,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.75,Female,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.68000031,Male,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.21000004,Total,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.12999916,Female,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,43.11999893,Male,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.81999969,Total,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.85000038,Female,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.15999985,Male,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.10000038,Total,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26,Female,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.25,Male,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.20999908,Total,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.37000084,Female,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.60000038,Male,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.450000760000002,Total,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.21000004,Female,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.43999958,Male,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.31000042,Total,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.70999908,Female,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.43000031,Male,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.96999931,Total,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.71000004,Female,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.899999619999999,Male,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.28999996,Total,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.06999969,Female,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.67000008,Male,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.88999939,Total,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.93000031,Female,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.38999939,Male,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.18000031,Total,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.40999985,Female,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.01000023,Male,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.20999908,Total,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.529999733,Female,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.02000046,Male,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.32999992,Total,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.54999924,Female,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.22000122,Male,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.91999817,Total,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.31999969,Female,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.04000092,Male,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,26.71999931,Total,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.37999916,Female,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.21999931,Male,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.31999969,Total,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,34.56000137,Female,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.06000137,Male,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,35.84000015,Total,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.18999958,Female,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.25,Male,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.220000267,Total,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,20.799999239999998,Female,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.39999962,Male,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,25.73999977,Total,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,3.5999999049999998,Female,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,3.859999895,Male,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,3.7300000190000002,Total,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.59000015,Female,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.84000015,Male,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.71000004,Total,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,53.40999985,Female,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,59.45000076,Male,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,56.54000092,Total,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,58.52999878,Female,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,54.68000031,Male,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,56.54999924,Total,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,33.65999985,Female,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.27999878,Male,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,37.54000092,Total,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.86000061,Female,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.09000015,Male,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,27.45999908,Total,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.27000046,Female,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.11000061,Male,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.76000023,Total,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,48.16999817,Female,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,55.38999939,Male,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,51.97999954,Total,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.90000153,Female,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.49000168,Male,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.68999863,Total,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,9.659999847,Female,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,14.350000380000001,Male,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.01000023,Total,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,11.63000011,Female,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.79000092,Male,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.40999985,Total,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.38000107,Female,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,48.04999924,Male,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,45.27000046,Total,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.29000092,Female,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,29.62999916,Male,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.44000053,Total,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.56000042,Female,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,7.1199998859999996,Male,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,7.829999924,Total,Units,%,Modelled,,,Total
+United States,US,USA,840,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.77999878,Female,Units,%,Modelled,,,Total
+United States,US,USA,840,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,42.11999893,Male,Units,%,Modelled,,,Total
+United States,US,USA,840,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.95000076,Total,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,38.36999893,Female,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,41.65000153,Male,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.04999924,Total,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,16.88999939,Female,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,22.71999931,Male,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,19.89999962,Total,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,28.700000760000002,Female,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,32.25999832,Male,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,30.53000069,Total,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,31.17000008,Female,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,40.83000183,Male,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,36.13000107,Total,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.23999977,Female,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,23.76000023,Male,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,18.27000046,Total,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,17.18000031,Female,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,24.76000023,Male,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,21.05999947,Total,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,15.06999969,Female,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.27000046,Male,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,13.67000008,Total,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,12.649999619999999,Female,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,8.239999771,Male,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Percentage of overweight among children aged 5-19 years, BMI > +1 standard deviations above the median (crude estimate)",2022,10.46000004,Total,Units,%,Modelled,,,Total
