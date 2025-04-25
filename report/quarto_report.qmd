@@ -2,7 +2,7 @@
 
 ### 1. Global Overview: Adolescent Health Indicator Map (2022)
 
-![Adolescent Health Indicator Map](../visuals//world_map_2022.png)
+![Adolescent Health Indicator Map](../visuals//world_map_2022.png){width=75%}
 
 The choropleth world map presents a comprehensive view of adolescent health scores by country in 2022. It illustrates substantial disparities across regions:
 
@@ -16,7 +16,7 @@ This map highlights the urgent need to address regional inequities in adolescent
 
 ### 2. Line Chart: Health Score Trends Over Time (2000–2022)
 
-![Line Chart - Health Trends](../visuals/line_chart.png)
+![Line Chart - Health Trends](../visuals/line_chart.png){width=75%}
 
 This time-series line chart visualizes how adolescent health outcomes have evolved across four demographically and geographically diverse countries between 2000 and 2022:
 
@@ -34,7 +34,7 @@ Together, these patterns underscore the importance of sustained policy commitmen
 
 ### 3. Bar Graph: Top 10 Countries by Health Score (2022)
 
-![Bar Graph - Top 10 Countries](../visuals/bar_graph_top10.png)
+![Bar Graph - Top 10 Countries](../visuals/bar_graph_top10.png){width=75%}
 
 This bar chart ranks the top 10 countries in 2022:
 
@@ -48,7 +48,7 @@ The bar graph serves as a benchmark and highlights successful models worth explo
 
 ### 4. Scatter Plot: Sanitation Access vs. Adolescent Health Score
 
-![Sanitation Access vs Health](../visuals/education_vs_health.png)
+![Sanitation Access vs Health](../visuals/education_vs_health.png){width=75%}
 
 *Scatter Plot – Sanitation vs. Health*
 
